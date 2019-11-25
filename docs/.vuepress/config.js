@@ -11,6 +11,7 @@ module.exports = {
     }]
   ],
   themeConfig: {
+    sidebarDepth: 3,
     repo: 'farnetani/boilerplate-vuepress',
     docsRepo: 'farnetani/boilerplate-vuepress',
     docsDir: 'docs',
