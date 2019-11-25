@@ -25,5 +25,8 @@ Rodar os comandos:
 git init
 git add --all
 git commit -m "Primeira carga do projeto"
+git remote add origin git@github.com:farsoftsystems/Boilerplate-Documentacao-Exemplo.git
 git push -u origin master   (somente a primeira vez, depois é só git push)
 ```
+
+teste
