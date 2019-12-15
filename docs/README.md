@@ -11,9 +11,6 @@
 - Email: [farnetani@gmail.com](farnetani@gmail.com)
 - WhatsApp: [35 98883-7909](https://wa.me/5535988837909?text=Ola)
 
-- Diego Santos Castro
-- Jonas Carvalho Ferraz
-
 ## Redes Sociais
 
 [Github - farnetani](https://github.com/farnetani/)
